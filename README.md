@@ -13,8 +13,8 @@
 - :trophy: I'm a `Programmer` at Cfl 404, Berisso.
 - :school: I'm a Student of `Full stack developer` degree at Apx school.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://juanpendenza.github.io/portfolio/).
+<!-- - :thinking: I’m open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume). -->
 
 <br><br>
 
