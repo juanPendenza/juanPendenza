@@ -11,7 +11,7 @@
 
 - :technologist: I am `Juan Pablo Pendenza` from Berisso, Buenos Aires, Argentina.
 - :trophy: I'm a `Programmer` at Cfl 404, Berisso.
-- :school: I'm a Student of `Full stack developer` degree at Apx school.
+- :school: I'm a Student of `Full stack developer` course at Apx school.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY WEBSITE](https://juanpendenza.github.io/portfolio/).
 <!-- - :thinking: I’m open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume). -->
